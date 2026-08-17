@@ -9,7 +9,7 @@ import GalleryPage from "./pages/GalleryPage";
 import CoursesPage from "./pages/CoursesPage";
 import InstitutionsPage from "./pages/InstitutionsPage";
 import Achievements from "./pages/Achievements";
-import CommitteePage from "./pages/CommitteePage.JSX";
+import CommitteePage from "./pages/CommitteePage";
 import FacilitiesPage from "./pages/FacilitiesPage";
 import ServicesPage from "./pages/Services";
 
